@@ -1,5 +1,5 @@
 
-    var nounArray = [	'Rahul', 'Matt', 'Vicente', 'Amy', 'Kevin', 'Sean', 'Hoa', 'Justin','Jonathan','Josh', 'Tad',
+    var nounArray = [	'Rahul', 'Matt', 'Vicente', 'Amy', 'Kevin', 'Sean', 'Hoa', 'Justin','Jonathan','Josh', 'Tad', 'Les',
     					'Chhhhhhhhhhabria', 'Magnus', 'Hoalton',  
     					'Pony', 'Sheep', 'Horse', 'Cow', 'Bear', 'Otter', 'Man', 'Boy',
     					'Dildo', 'Douche', 'Dick', 'Cock',
