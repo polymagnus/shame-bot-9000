@@ -3,7 +3,7 @@
     					'Chhhhhhhhhhabria', 'Magnus', 'Hoalton',  
     					'Pony', 'Sheep', 'Horse', 'Cow', 'Bear', 'Otter', 'Man', 'Boy',
     					'Dildo', 'Douche', 'Dick', 'Cock',
-    					'Fairy', 'Princess', 'Queen'];
+    					'Fairy', 'Princess', 'Queen', 'Donald Trump', 'Handjob'];
     var adjArray = [	'Reamers', 'Slammers', 'Lickers', 'Pleasers', 'Whores', 'Lovers',
     					'Slappers', 'Caressers', 'Molesters', 'Sex Offenders', 'Power Bottoms',
     					'Cuddlers', 'Gaywads', 'Horse Cocks', 'Limp Dicks'];
